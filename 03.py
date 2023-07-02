@@ -7,6 +7,7 @@ sorted_list = sorted(list(set(x.split(' '))))
 #     sentence += ' ' + word
 # print(sentence)
 print(' '.join(sorted_list))
+
 print('-'.join(['a', 'b', 'c']))
 print('sunil'.split())
 print([x for x in 'sunil'])
